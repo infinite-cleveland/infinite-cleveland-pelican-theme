@@ -1,0 +1,3 @@
+#!/bin/bash
+
+export INFINITE_PELICAN_THEME_HOME="$HOME/infinite/infinite-cleveland-pelican-theme"
