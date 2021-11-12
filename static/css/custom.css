@@ -1,3 +1,10 @@
+code {
+  color: #e83e8c;
+  background-color: #404040;
+  padding: 2px 2px 2px 2px;
+  font-size: 90%;
+}
+
 .navbar-brand-logo {
   width: 25px;
   height: 25px;
@@ -33,6 +40,7 @@ th {
 }
 
 body {
+  font-size: large;
   /* navbar: */
   /*padding-top: 70px;*/
   /* no navbar: */
