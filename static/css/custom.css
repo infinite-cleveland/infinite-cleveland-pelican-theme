@@ -231,12 +231,14 @@ span.standings-record {
     font-size: 125%;
 }
 
-.map-card-header .badge-info {
-    background-color: #2b74d4;
+.map-card-header .badge.bg-info,
+.map-card-header .badge.text-bg-info {
+    background-color: #2b74d4 !important;
 }
 
-.map-card-header .badge-warning {
-    background-color: #d42b50;
+.map-card-header .badge.bg-warning,
+.map-card-header .badge.text-bg-warning {
+    background-color: #d42b50 !important;
 }
 
 .map-card-simulate {
